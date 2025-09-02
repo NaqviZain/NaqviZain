@@ -1,8 +1,7 @@
 # Hi 👋, I'm Zain  
 
 ### About Me  
-I'm currently pursuing a **BSc in Computer Science** at Ontario Tech University with a focus on **Software Engineering, Robotics Programming, and Artificial Intelligence**.  
-I’m passionate about building innovative solutions, mentoring others in robotics, and collaborating on projects that challenge me to grow as both a developer and a leader.  
+I'm currently pursuing a BSc in Computer Science at Ontario Tech University with a focus on Software Engineering, Robotics Programming, and Artificial Intelligence. I’m passionate about building innovative solutions, mentoring others in robotics, and collaborating on projects that challenge me to grow as both a developer and a leader.  
 
 ---
 
