@@ -27,6 +27,7 @@ I'm currently pursuing a BSc in Computer Science at Ontario Tech University with
 **Development Tools:**  
 [![Linux](https://img.icons8.com/color/48/000000/linux.png)](https://www.linux.org/)
 [![Git](https://img.icons8.com/color/48/000000/git.png)](https://git-scm.com/)  
+
 ---
 
 ### 📂 Projects  
