@@ -38,4 +38,4 @@ I’m passionate about building innovative solutions, mentoring others in roboti
 ---
 
 ### 📫 Connect with Me  
-[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/zain-naqvi-629636280))
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)]([https://linkedin.com](https://www.linkedin.com/in/zain-naqvi-629636280))  
