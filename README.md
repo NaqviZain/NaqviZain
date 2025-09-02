@@ -6,19 +6,29 @@ I’m passionate about building innovative solutions, mentoring others in roboti
 
 ---
 
-### 🔧 Skills & Tools  
-
 **Languages:**  
-JavaScript | Python | Java | C++ | HTML | CSS  
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) 
+![C](https://img.icons8.com/color/48/000000/c-programming.png) 
+![Python](https://img.icons8.com/color/48/000000/python.png) 
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS](https://img.icons8.com/color/48/000000/css3.png)  
 
 **Databases:**  
-MongoDB | MySQL  
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) 
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)  
 
 **Frameworks & Libraries:**  
-React | Node.js | Express | Bootstrap  
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![Express](https://img.icons8.com/ios/48/000000/express-js.png) 
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) 
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
+![jQuery](https://img.icons8.com/ios/48/000000/jquery.png)  
 
 **Development Tools:**  
-Git | Linux | VS Code | Pterodactyl | Docker  
+![Linux](https://img.icons8.com/color/48/000000/linux.png) 
+![Git](https://img.icons8.com/color/48/000000/git.png)  
 
 ---
 
